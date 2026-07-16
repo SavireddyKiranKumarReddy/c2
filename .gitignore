@@ -1,0 +1,14 @@
+dist/
+build/
+__pycache__/
+*.spec
+*.pyc
+*.pfx
+.vercel/
+node_modules/
+*.exe
+c2_data.db
+captured_logs/
+test_output.txt
+test_pynput.py
+test_win32hook.py
